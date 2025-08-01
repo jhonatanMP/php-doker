@@ -131,7 +131,7 @@ Para usuários de Windows, é altamente recomendado utilizar o [Windows Subsyste
     ```bash
     chmod +x setup_project.sh
     ```
-6.  **Execute o script:
+6.  **Execute o script:**
     ```bash
     ./setup_project.sh
     ```
