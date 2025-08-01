@@ -40,7 +40,6 @@ Se eles não estiverem instalados, siga os links acima para as instruções de i
     git clone https://github.com/jhonatanMP/php-doker.git
     cd seu-repositorio
     ```
-    *(Substitua `seu-usuario/seu-repositorio.git` pelo caminho real do seu repositório)*
 
 2.  **Dê permissão de execução ao script:**
 
