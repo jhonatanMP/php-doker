@@ -37,7 +37,7 @@ Se eles não estiverem instalados, siga os links acima para as instruções de i
 1.  **Clone o repositório (ou baixe o script `setup_project.sh`):**
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/jhonatanMP/php-doker.git
     cd seu-repositorio
     ```
     *(Substitua `seu-usuario/seu-repositorio.git` pelo caminho real do seu repositório)*
